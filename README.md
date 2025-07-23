@@ -10,8 +10,8 @@ The program allows you to transfer assets between the main account and sub-accou
 Security lies in your live API keys. And where you use the program.
 
 ## Supported exchanges
-Binance
-ByBit
+- Binance
+- ByBit
 
 ## How it is working
 At the moment the program uses exchange APIs to check balances. This does not happen quickly if you have many accounts.
