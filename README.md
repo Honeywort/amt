@@ -12,6 +12,7 @@ Security lies in your live API keys. And where you use the program.
 ## Supported exchanges
 - Binance
 - ByBit
+- GateIO
 
 ## How it is working
 At the moment the program uses exchange APIs to check balances. This does not happen quickly if you have many accounts.
